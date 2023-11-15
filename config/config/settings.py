@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-v&ki065*18^5@#n2!7y1gzq^j@y(4g^77*g&a9uq2dogx6_ls@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', 'pythonanywhere.com', 'origami.pythonanywhere.com']
 
